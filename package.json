@@ -1,0 +1,11 @@
+{
+  "name": "i-vue-frame",
+  "version": "1.4.15",
+  "author": "joenix",
+  "license": "MIT",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "dependencies": {
+    "post-bridge": "^1.2.3"
+  }
+}
